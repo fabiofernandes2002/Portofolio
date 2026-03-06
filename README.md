@@ -41,3 +41,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 * Framer Motion
 * React Icons
 
+## Cores Utilizados
+Background: #0f172a
+Surface: #1e293b
+Primary: #3b82f6
+Secondary: #6366f1
+Text: #f8fafc
+
